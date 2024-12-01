@@ -11,12 +11,12 @@ Welcome to my Advent of Code solutions repository! This repository contains my s
 Each day's solution is contained within its own directory, named `day_xx`, where `xx` is the day number (e.g., `DAY-1` for December 1st). Inside each directory, you will find subdirectories for each part of the puzzle, named `PART-1`, `PART-2`, etc. Inside each part directory, you will find:
 
 - `code_1.py`: The solution code in python.
-- `code_1.js`: The solution code in JavaScript.
+- `code_1.c`: The solution code in C.
 - `code_1.txt`: The input data for the puzzle.
 
 ## Solutions
 
 | Day | Puzzle | Solution |
 | --- | ------ | -------- |
-| 01   | [Day 1](https://adventofcode.com/2024/day/1) | [Python](DAY-1/PART-1/code_1.py) / [JavaScript](DAY-1/PART-1/code_1.c) |
+| 01   | [Day 1](https://adventofcode.com/2024/day/1) | [Python](DAY-1/PART-1/code_1.py) / [C](DAY-1/PART-1/code_1.c) |
 | ... | ...    | ...      |
