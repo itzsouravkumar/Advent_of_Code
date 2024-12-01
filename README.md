@@ -1,22 +1,34 @@
-# Advent of Code 2024 Solutions
+🎄 Advent of Code 2024 Solutions
+Welcome to my Advent of Code 2024 solutions repository! This repository showcases my daily solutions for the programming puzzles presented during the event.
 
-Welcome to my Advent of Code solutions repository! This repository contains my solutions for the Advent of Code challenges.
+About Advent of Code
+Advent of Code is an annual series of holiday-themed programming challenges that run from December 1st to 25th. Each day unveils a new puzzle to solve. It's an exciting opportunity to:
 
-## About Advent of Code
+Sharpen your programming skills 
+Challenge your problem-solving abilities 
+Join a vibrant community of developers 
+Repository Structure
+Every day's puzzle is organized in a structured format:
 
-[Advent of Code](https://adventofcode.com/) is an annual event in December where participants solve daily programming puzzles. It's a great way to improve your coding skills and have fun during the holiday season.
-
-## Structure
-
-Each day's solution is contained within its own directory, named `day_xx`, where `xx` is the day number (e.g., `DAY-1` for December 1st). Inside each directory, you will find subdirectories for each part of the puzzle, named `PART-1`, `PART-2`, etc. Inside each part directory, you will find:
-
-- `code_1.py`: The solution code in python.
-- `code_1.c`: The solution code in C.
-- `code_1.txt`: The input data for the puzzle.
-
-## Solutions
-
-| Day | Puzzle | Solution |
-| --- | ------ | -------- |
-| 01   | [Day 1](https://adventofcode.com/2024/day/1) | [Python](DAY-1/PART-1/code_1.py) / [C](DAY-1/PART-1/code_1.c) |
-| ... | ...    | ...      |
+DAY-XX/  
+  ├── PART-1/  
+  │     ├── code_1.py   # Solution in Python  
+  │     ├── code_1.c    # Solution in C  
+  │     └── code_1.txt  # Input data for the puzzle  
+  └── PART-2/  
+        ├── code_2.py   # Solution in Python  
+        ├── code_2.c    # Solution in C  
+        └── code_2.txt  # Input data for the puzzle  
+🗂 Solutions
+Day	Puzzle Link 🔗	Python 🐍	C 💻	Input Data 📄
+01	Day 1	Part 1 / Part 2	Part 1 / Part 2	Input
+02	Day 2	Coming Soon 🚧	Coming Soon 🚧	Coming Soon 🚧
+03	Day 3	Coming Soon 🚧	Coming Soon 🚧	Coming Soon 🚧
+Why Participate?
+Learn and Grow 📘: Tackle unique challenges and improve your skills in Python, C, and more!
+Stay Consistent 📅: Solve puzzles daily to build coding habits.
+Connect Globally 🌍: Be part of a worldwide community of coders and problem-solvers.
+🛠 Tools and Languages Used
+Languages: Python, C
+Editor: VS Code, GCC for C
+Feel free to fork this repository, try out the challenges, or share your solutions! 😊
