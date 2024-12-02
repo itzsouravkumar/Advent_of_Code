@@ -32,8 +32,8 @@ DAY-XX/
 
 | Day  | Puzzle Link 🔗                        | Python 🐍                                        | C 💻                                               | Input Data 📄                                      |
 | ---- | ------------------------------------- | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| **01** | [Day 1](https://adventofcode.com/2024/day/1) | [Part 1](DAY-1/PART-1/code_1.py) / [Part 2](DAY-1/PART-2/code_2.py) | [Part 1](DAY-1/PART-1/code_1.c) / [Part 2](DAY-1/PART-2/code_2.c) | [Input](DAY-1/PART-1/code_1.txt)                 |
-| **02** | [Day 2](https://adventofcode.com/2024/day/2) | Coming Soon 🚧                                  | Coming Soon 🚧                                    | Coming Soon 🚧                                    |
+| **01** | [Day 1](https://adventofcode.com/2024/day/1) | [Part 1](DAY-1/PART-1/code_1.py) / [Part 2](DAY-1/PART-2/code_2.py) | [Part 1](DAY-1/PART-1/code_1.c) / [Part 2](DAY-1/PART-2/code_2.c) | [Input](DAY-1/PART-1/code_1.txt) / [Input](DAY-1/PART-2/code_2.txt) |
+| **02** | [Day 2](https://adventofcode.com/2024/day/2) | [Part 1](DAY-2/PART-1/code_1.py) / [Part 2](DAY-2/PART-2/code_2.py) |  [Part 1](DAY-2/PART-1/code_1.c) / [Part 2](DAY-2/PART-2/code_2.c) | [Input](DAY-2/PART-1/code_1.txt) / [Input](DAY-2/PART-2/code_2.txt)|
 | **03** | [Day 3](https://adventofcode.com/2024/day/3) | Coming Soon 🚧                                  | Coming Soon 🚧                                    | Coming Soon 🚧                                    |
 
 ---
