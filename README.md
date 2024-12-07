@@ -34,8 +34,8 @@ DAY-XX/
 | ---- | ------------------------------------- | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **01** | [Day 1](https://adventofcode.com/2024/day/1) | [Part 1](DAY-1/PART-1/code_1.py) / [Part 2](DAY-1/PART-2/code_2.py) | [Part 1](DAY-1/PART-1/code_1.c) / [Part 2](DAY-1/PART-2/code_2.c) | [Input 1](DAY-1/PART-1/code_1.txt) / [Input 2](DAY-1/PART-2/code_2.txt) |
 | **02** | [Day 2](https://adventofcode.com/2024/day/2) | [Part 1](DAY-2/PART-1/code_1.py) / [Part 2](DAY-2/PART-2/code_2.py) |  [Part 1](DAY-2/PART-1/code_1.c) / [Part 2](DAY-2/PART-2/code_2.c) | [Input 1](DAY-2/PART-1/code_1.txt) / [Input 2](DAY-2/PART-2/code_2.txt)|
-| **03** | [Day 3](https://adventofcode.com/2024/day/3) | Coming Soon 🚧                                  | Coming Soon 🚧                                    | Coming Soon 🚧                                    |
-
+| **03** | [Day 3](https://adventofcode.com/2024/day/3) | [Part 1](DAY-3/PART-1/code_1.py) / [Part 2](DAY-3/PART-2/code_2.py) |  [Part 1](DAY-3/PART-1/code_1.c) / [Part 2](DAY-3/PART-2/code_2.c) | [Input 1](DAY-3/PART-1/code_1.txt) / [Input 2](DAY-3/PART-2/code_2.txt)|
+| **04** | [Day 4](https://adventofcode.com/2024/day/4) | [Part 1](DAY-4/PART-1/code_1.py) / [Part 2](DAY-4/PART-2/code_2.py) |  [Part 1](DAY-4/PART-1/code_1.c) / [Part 2](DAY-4/PART-2/code_2.c) | [Input 1](DAY-4/PART-1/code_1.txt) / [Input 2](DAY-4/PART-2/code_2.txt)|
 ---
 
 ## Why Participate?  
